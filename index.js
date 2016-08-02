@@ -4,7 +4,7 @@
  */
 
 var debug = require('debug')('co-render');
-var cons = require('consolidate');
+var cons = require('consolidate-velocity');
 var path = require('path');
 var extname = path.extname;
 
